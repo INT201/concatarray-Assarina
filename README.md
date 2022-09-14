@@ -67,7 +67,7 @@ function concatArray(array1, array2) {
   }
 
 }
-  /
+  
 
 
 module.exports = concatArray;
